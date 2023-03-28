@@ -1,0 +1,3 @@
+var gettea = true;
+var getwater = false;
+console.log (gettea / getwater)
