@@ -1,0 +1,8 @@
+var gettea = 800; // in hundreds more readable
+var getwater = 600; // in hundreds more readable
+
+function myTea() {
+  return gettea / getwater; // example of return
+};
+
+console.log(Boolean(myTea()));
